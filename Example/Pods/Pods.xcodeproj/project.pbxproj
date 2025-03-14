@@ -40,22 +40,22 @@
 /* Begin PBXFileReference section */
 		018AD69762592A5D9D23A69B160E5484 /* Pods-keccak-custom_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-keccak-custom_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		02FB05920044056B7A0DCB7F70C35769 /* keccak-custom.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "keccak-custom.release.xcconfig"; sourceTree = "<group>"; };
-		05328F956D3440DF9639E8C63570E022 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; path = LICENSE; sourceTree = "<group>"; };
+		05328F956D3440DF9639E8C63570E022 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = LICENSE; sourceTree = "<group>"; };
 		090F26348501D176A99995D204787369 /* Pods-keccak-custom_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-keccak-custom_Example.release.xcconfig"; sourceTree = "<group>"; };
 		384DDA2CB25005BD6479B5987C619DD4 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS18.0.sdk/System/Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
 		3BC24253326BD4EFF2554296D90F4815 /* keccak-custom-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "keccak-custom-Info.plist"; sourceTree = "<group>"; };
 		6059C7D5C5188D10DA14A0EDDBF63D94 /* Pods-keccak-custom_Example-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-keccak-custom_Example-acknowledgements.plist"; sourceTree = "<group>"; };
 		64FBAF7349BF39BAC2CEFD18AC8F7D8A /* Pods-keccak-custom_Tests.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-keccak-custom_Tests.modulemap"; sourceTree = "<group>"; };
-		6CEC2F45908E79836CA71D34C18872FF /* keccak.c */ = {isa = PBXFileReference; includeInIndex = 1; name = keccak.c; path = "keccak-custom/Classes/keccak/keccak.c"; sourceTree = "<group>"; };
+		6CEC2F45908E79836CA71D34C18872FF /* keccak.c */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.c; name = keccak.c; path = "keccak-custom/Classes/keccak/keccak.c"; sourceTree = "<group>"; };
 		6DD13600846787E045DDA59AF2B52ECB /* Pods-keccak-custom_Example-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-keccak-custom_Example-Info.plist"; sourceTree = "<group>"; };
 		6E2BB797263A664A85D76700F34C490E /* keccak-custom-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "keccak-custom-prefix.pch"; sourceTree = "<group>"; };
-		809A0E5F8A7ACCE6022D4A4621D0FCD2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; path = README.md; sourceTree = "<group>"; };
+		809A0E5F8A7ACCE6022D4A4621D0FCD2 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		85497CDF8FE574971C4387F2409052F5 /* Pods-keccak-custom_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-keccak-custom_Example.debug.xcconfig"; sourceTree = "<group>"; };
-		86B0543EE1C05F5CF3F447E0FC2110D1 /* keccak-custom.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; path = "keccak-custom.podspec"; sourceTree = "<group>"; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		8B9E8273C0EBBAE97195C4D03EF52030 /* Pods-keccak-custom_Example */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-keccak-custom_Example"; path = Pods_keccak_custom_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		86B0543EE1C05F5CF3F447E0FC2110D1 /* keccak-custom.podspec */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; path = "keccak-custom.podspec"; sourceTree = "<group>"; tabWidth = 2; };
+		8B9E8273C0EBBAE97195C4D03EF52030 /* Pods_keccak_custom_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_keccak_custom_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		972E835ED363EFC40314E548ED8E98D8 /* Pods-keccak-custom_Example-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-keccak-custom_Example-acknowledgements.markdown"; sourceTree = "<group>"; };
 		982F6DD5C5A82CB854423D45A430D9B3 /* keccak-custom.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "keccak-custom.debug.xcconfig"; sourceTree = "<group>"; };
-		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		9D940727FF8FB9C785EB98E56350EF41 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; indentWidth = 2; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; tabWidth = 2; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 		A479DAC6287FFC4092B9E5826DDED826 /* Pods-keccak-custom_Tests-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-keccak-custom_Tests-dummy.m"; sourceTree = "<group>"; };
 		B1EAB419CF773A41C78C3AA389AE1410 /* Pods-keccak-custom_Tests-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-keccak-custom_Tests-acknowledgements.markdown"; sourceTree = "<group>"; };
 		B329EB80E0B191543920F80CC9AD2982 /* Pods-keccak-custom_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-keccak-custom_Tests.debug.xcconfig"; sourceTree = "<group>"; };
@@ -65,12 +65,12 @@
 		C89DD194E394F9399EED4A0809233259 /* Pods-keccak-custom_Example-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-keccak-custom_Example-frameworks.sh"; sourceTree = "<group>"; };
 		CA26D5D4FFED54216E4A1A1DBDD7255E /* Pods-keccak-custom_Tests-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-keccak-custom_Tests-acknowledgements.plist"; sourceTree = "<group>"; };
 		CA425ACCAFEA2D730990EDB047E016FF /* Pods-keccak-custom_Tests-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "Pods-keccak-custom_Tests-umbrella.h"; sourceTree = "<group>"; };
-		E75C5030571C758EC8F0A81DC47EB82B /* keccak-custom */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "keccak-custom"; path = keccak.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		E75C5030571C758EC8F0A81DC47EB82B /* keccak.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = keccak.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EA7EC6F33AF006099875B437584053D5 /* keccak-custom-umbrella.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "keccak-custom-umbrella.h"; sourceTree = "<group>"; };
 		EED3087542071CD729558BEB38C6FFA8 /* Pods-keccak-custom_Example.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "Pods-keccak-custom_Example.modulemap"; sourceTree = "<group>"; };
 		F3C513CE643EF64854B49F853D64A45F /* keccak-custom.modulemap */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.module; path = "keccak-custom.modulemap"; sourceTree = "<group>"; };
 		F4F4D4B138EE2B673738757D0566AE7D /* keccak.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = keccak.h; sourceTree = "<group>"; };
-		F74CA379688934CCB3DD0212F2EA5B6F /* Pods-keccak-custom_Tests */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; name = "Pods-keccak-custom_Tests"; path = Pods_keccak_custom_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		F74CA379688934CCB3DD0212F2EA5B6F /* Pods_keccak_custom_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_keccak_custom_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE951F2802443BB0A89AE1A34ED35D0E /* Pods-keccak-custom_Tests-Info.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-keccak-custom_Tests-Info.plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -114,9 +114,9 @@
 		604E84751AA0106DCF3FB6852AAC23A3 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				E75C5030571C758EC8F0A81DC47EB82B /* keccak-custom */,
-				8B9E8273C0EBBAE97195C4D03EF52030 /* Pods-keccak-custom_Example */,
-				F74CA379688934CCB3DD0212F2EA5B6F /* Pods-keccak-custom_Tests */,
+				E75C5030571C758EC8F0A81DC47EB82B /* keccak.framework */,
+				8B9E8273C0EBBAE97195C4D03EF52030 /* Pods_keccak_custom_Example.framework */,
+				F74CA379688934CCB3DD0212F2EA5B6F /* Pods_keccak_custom_Tests.framework */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -282,7 +282,7 @@
 			);
 			name = "Pods-keccak-custom_Example";
 			productName = Pods_keccak_custom_Example;
-			productReference = 8B9E8273C0EBBAE97195C4D03EF52030 /* Pods-keccak-custom_Example */;
+			productReference = 8B9E8273C0EBBAE97195C4D03EF52030 /* Pods_keccak_custom_Example.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		5F9156796AF26E9D5B64B94D760A006B /* keccak-custom */ = {
@@ -300,7 +300,7 @@
 			);
 			name = "keccak-custom";
 			productName = keccak;
-			productReference = E75C5030571C758EC8F0A81DC47EB82B /* keccak-custom */;
+			productReference = E75C5030571C758EC8F0A81DC47EB82B /* keccak.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 		EDC7049007F62E4BB67D690972BDD365 /* Pods-keccak-custom_Tests */ = {
@@ -319,7 +319,7 @@
 			);
 			name = "Pods-keccak-custom_Tests";
 			productName = Pods_keccak_custom_Tests;
-			productReference = F74CA379688934CCB3DD0212F2EA5B6F /* Pods-keccak-custom_Tests */;
+			productReference = F74CA379688934CCB3DD0212F2EA5B6F /* Pods_keccak_custom_Tests.framework */;
 			productType = "com.apple.product-type.framework";
 		};
 /* End PBXNativeTarget section */
@@ -340,8 +340,6 @@
 				en,
 			);
 			mainGroup = CF1408CF629C7361332E53B88F7BD30C;
-			minimizedProjectReferenceProxies = 0;
-			preferredProjectObjectVersion = 77;
 			productRefGroup = 604E84751AA0106DCF3FB6852AAC23A3 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -612,8 +610,7 @@
 				MTL_FAST_MATH = YES;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				STRIP_INSTALLED_PRODUCT = NO;
-				SWIFT_COMPILATION_MODE = wholemodule;
-				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
 				SWIFT_VERSION = 5.0;
 				SYMROOT = "${SRCROOT}/../build";
 			};

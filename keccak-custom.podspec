@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'keccak-custom'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'A custom implementation of keccak cryptographic functions for iOS'
   s.module_name      = 'keccak'
   s.homepage         = 'https://github.com/tr-pa/keccak-custom'
@@ -20,6 +20,6 @@ Pod::Spec.new do |s|
 
   s.source_files = 'keccak-custom/Classes/**/*.{c,h}'
 
-  s.public_header_files = 'keccak-custom/keccak-custom/Classes/keccak/include/keccak.h'
+  s.public_header_files = 'keccak-custom/Classes/keccak/include/keccak.h'
 
 end

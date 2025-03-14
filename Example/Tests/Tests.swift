@@ -1,5 +1,5 @@
 import XCTest
-import keccak-custom
+import keccak
 
 class Tests: XCTestCase {
     

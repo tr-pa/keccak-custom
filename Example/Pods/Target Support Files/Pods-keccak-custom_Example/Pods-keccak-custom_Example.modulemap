@@ -1,0 +1,6 @@
+framework module Pods_keccak_custom_Example {
+  umbrella header "Pods-keccak-custom_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,16 @@
+PODS:
+  - keccak-custom (0.1.0)
+
+DEPENDENCIES:
+  - keccak-custom (from `../`)
+
+EXTERNAL SOURCES:
+  keccak-custom:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  keccak-custom: 365be6f06eaaa11023cb20409d047c0e31b4b1cd
+
+PODFILE CHECKSUM: 67e1af6763e0973c571e95602616ad9ca9bda92a
+
+COCOAPODS: 1.15.0
